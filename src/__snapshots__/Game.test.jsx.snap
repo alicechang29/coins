@@ -1,0 +1,37 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`matches snapshot 1`] = `
+<div>
+  <div
+    class="Game"
+  >
+    <h1>
+      Let's flip a coin
+    </h1>
+    <div
+      class="Coin"
+    >
+      <h4
+        class="Coin-title"
+      />
+      <img
+        alt=""
+        class="Coin-image"
+        src=""
+      />
+    </div>
+    <button>
+      Flip Coin
+    </button>
+    <p>
+      Out of 
+      0
+       flips, there have been 
+      0
+       heads and 
+      0
+       tails. 
+    </p>
+  </div>
+</div>
+`;
